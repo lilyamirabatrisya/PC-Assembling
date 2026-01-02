@@ -34,16 +34,16 @@ This was an amazing hands-on experience that demonstrate the computer hardware a
 ## **Event Memories**
 
 ### **1. Assembling The PC**
-![Assembling The PC](/helmee-talk.jpg)
+![Assembling The PC](/PC-1.jpg)
 
 ### **2. Inside The PC**
-![Inside The PC](/key-takeaways.jpg)
+![Inside The PC](/PC-2.jpg)
 
 ### **4. Before Submitting The PC**
-![Before Submitting The PC](/booth-visit.jpg)
+![Before Submitting The PC](/PC-3.jpg)
 
 ### **3. Group Photo with Teammates**
-![Group Photo with Teammates](/group-photo.jpg)
+![Group Photo with Teammates](/PC-Group.jpg)
 
 ---
 
