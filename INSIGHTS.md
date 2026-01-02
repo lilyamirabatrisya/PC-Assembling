@@ -1,4 +1,5 @@
 # PC Disassembly & Assembly Experience  
+
 **Date:** 12 November 2025
 **Venue:** N28, Universiti Teknologi Malaysia, Johor
 
@@ -27,6 +28,22 @@ Another key lesson was learning to **never be shy about asking for help**. As a 
 
 ## Reflection  
 This was an amazing hands-on experience that demonstrate the computer hardware and emphasized the importance of caution, verification, and the courage to ask questions. It boosted both my technical confidence and my willingness to seek guidance in learning environments.
+
+---
+
+## **Event Memories**
+
+### **1. Assembling The PC**
+![Assembling The PC](/helmee-talk.jpg)
+
+### **2. Inside The PC**
+![Inside The PC](/key-takeaways.jpg)
+
+### **4. Before Submitting The PC**
+![Before Submitting The PC](/booth-visit.jpg)
+
+### **3. Group Photo with Teammates**
+![Group Photo with Teammates](/group-photo.jpg)
 
 ---
 
